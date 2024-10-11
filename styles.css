@@ -23,9 +23,9 @@ body {
   }
   
   .time {
-    background-color: #ffffff;
+    background-color: #9c3333;
     padding: 10px 20px;
-    border-radius: 5px;
+    border-radius: 6px;
   }
   
   @keyframes glitter {
